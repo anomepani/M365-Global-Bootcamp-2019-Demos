@@ -8,7 +8,12 @@ All Demo, Session Content from Microsoft Global Bootcamp 2019
 * Chennai, india - https://github.com/xmonkeys360/M365Bootcamp2019-Chennai
 * Japan - https://github.com/karamem0/m365devbootcamp2019
 * Italy - https://github.com/kasuken/M365-Bootcamp-Italy-2019
+* Denmark - https://github.com/andersdissing/MSBootcamp-2019-11-14
 
 ## Global Azure Bootcamp
 
 *  Montréal, Ottawa & Halifax, Canada - https://github.com/MSDEVMTL/GlobalAzureBootcamp-2019
+
+## Other Presentation
+
+* Rory Braybrook's presentations - https://github.com/rbrayb/Presentations
