@@ -14,7 +14,11 @@ All Demo, Session Content from Microsoft Global Bootcamp 2019
 * Denmark - https://github.com/andersdissing/MSBootcamp-2019-11-14
 * Vienna, Austria - https://github.com/tonipohl/M365DevBootcamp-Vienna
 * Sydney, australia - https://github.com/officedevsyd/M365-Bootcamp-Sydney-2019
-* Barcelona (Spain) - https://github.com/luismanez/m365-dev-bootcamp-bcn-2019
+* Spain
+  - Valencia https://github.com/CompartiMOSS/Microsoft-365-Developer-Bootcamp-Valencia
+  - Barcelona 
+    - https://github.com/CompartiMOSS/Microsoft-365-Developer-Bootcamp-Barcelona
+    - https://github.com/luismanez/m365-dev-bootcamp-bcn-2019
 * https://github.com/rifaj/global-M365-bootcamp
 
 ## Global Azure Bootcamp
@@ -25,3 +29,4 @@ All Demo, Session Content from Microsoft Global Bootcamp 2019
 
 * Rory Braybrook's presentations - https://github.com/rbrayb/Presentations
 * SPS Ahmedabad 2019 Sessions -  https://1drv.ms/u/s!AmUIvEa1hDq5hSuRckT79LNjy6zK?e=Pk7AqI
+* Older M365 Labs and Slide - https://github.com/CompartiMOSS/Global-Office-365-Developer-Bootcamp
