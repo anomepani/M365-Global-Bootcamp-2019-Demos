@@ -1,3 +1,9 @@
+# Global Power Platform Bootcamp 2020 Demos
+* https://github.com/mstechcomin/GPPBootcampBLR
+* https://github.com/ramimounla/GlobalPowerPlatformBootcamp
+* https://github.com/Global-Power-Platform-Bootcamp/GPPB2020
+* https://github.com/sugcat/GPPB2020_Barcelona
+
 # M365-Global-Bootcamp-2019-Demos
 All Demo, Session Content from Microsoft Global Bootcamp 2019
 
